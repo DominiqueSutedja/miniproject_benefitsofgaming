@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+ h1,h2{
+  background-color:#9bff05;
+  color: 000000
+  font-family:verdana;
+  text-align: center;
+}
+#specialHeader{
+  background-color:#fad000;
+  color:#00aaff;
+  font-family: 'Verdana', cursive;
+  text-align:center;
+}
+
+div.specialQuote{
+  background-color:lightgray;
+  width:60%;
+  height:150px;
+  margin:auto;
+  padding:15px;
+  overflow:scroll;
+  background-color:#8ad8ff
+
+#specialHeader2{
+  background-color:#fa0000;
+  color:#1100ff;
+  font-family: 'Georgia', cursive;
+  text-align:center;
+}
